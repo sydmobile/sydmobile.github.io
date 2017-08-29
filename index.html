@@ -4,8 +4,6 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>Welcome to HyG's Blog!</h1>
-        <small>这里记录着我的前端学习之路</small>
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -69,15 +67,7 @@ layout: default
     <div class="right">
         <div class="wrap">
             <div class="side">
-                <div>
-                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                    Recent Posts
-                </div>
-                <ul class="content-ul" recent>
-                    {% for post in site.posts offset: 0 limit: 10  %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-                    {% endfor %}
-                </ul>
+   
             </div>
 
             <!-- Content -->
@@ -100,49 +90,11 @@ layout: default
                 </ul>
             </div>
             <!-- 其他div框放到这里 -->
-            <div class="side">
-                <div>
-                    <i class="fa fa-tags"></i>
-                    Tags
-                </div>
-                <div class="tags-cloud">
-                    {% assign first = site.tags.first %}
-                    {% assign max = first[1].size %}
-                    {% assign min = max %}
-                    {% for tag in site.tags offset:1 %}
-                      {% if tag[1].size > max %}
-                        {% assign max = tag[1].size %}
-                      {% elsif tag[1].size < min %}
-                        {% assign min = tag[1].size %}
-                      {% endif %}
-                    {% endfor %}
+        <div align=center>
+  <font face="Helvetica" size="2" color="#F28771">关注微信公众号,获取更多干货</font></div>
+	<div align=center> <img src="http://img.my.csdn.net/uploads/201705/08/1494228858_5594.jpg" style="width:95%"> </div>
 
-                    {% if max == min %}
-                        {% assign diff = 1 %}
-                    {% else %}
-                        {% assign diff = max | minus: min %}
-                    {% endif %}
-
-                    {% for tag in site.tags %}
-                      {% assign temp = tag[1].size | minus: min | times: 36 | divided_by: diff %}
-                      {% assign base = temp | divided_by: 4 %}
-                      {% assign remain = temp | modulo: 4 %}
-                      {% if remain == 0 %}
-                        {% assign size = base | plus: 9 %}
-                      {% elsif remain == 1 or remain == 2 %}
-                        {% assign size = base | plus: 9 | append: '.5' %}
-                      {% else %}
-                        {% assign size = base | plus: 10 %}
-                      {% endif %}
-                      {% if remain == 0 or remain == 1 %}
-                        {% assign color = 9 | minus: base %}
-                      {% else %}
-                        {% assign color = 8 | minus: base %}
-                      {% endif %}
-                      <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
-                    {% endfor %}
-                </div>
-            </div>
+      </div>
 
             <!-- <div class="side">
                 <div>
