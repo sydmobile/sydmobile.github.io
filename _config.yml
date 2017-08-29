@@ -7,7 +7,7 @@
 
 # Site settings
 title: sydMobile
-brief-intro: Front-end Dev Engineer
+brief-intro: 为开源世界贡献一份力量
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sydmobile.github.io/" # the base hostname & protocol for your site
 
