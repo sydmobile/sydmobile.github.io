@@ -35,7 +35,8 @@ github地址：[https://github.com/sydmobile](https://github.com/sydmobile)
 
 ![扫一扫关注公众号，获取更多干货](http://upload-images.jianshu.io/upload_images/6737388-e9bb96f87d9e944b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-QQ Android学习交流群：514716253
+QQ Android学习交流群：514716253    
+
 ![](http://upload-images.jianshu.io/upload_images/6737388-1a7c281d4e75fc4c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 特别感谢  
