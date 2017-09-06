@@ -3,14 +3,10 @@ layout: post
 title:  "Android SDK目录下的各个文件夹的作用"
 date:   2017-08-29 15:14:54
 categories: Android
+excerpt: 
 tags: Android SDK目录
 mathjax: true
 ---
-
-
-
-
-
 # SDK 目录
 ![这里写图片描述](http://img.blog.csdn.net/20160715141652527)
 |add-ones|build-tools|docs|extras|platforms|platform-tools|tools|
