@@ -23,7 +23,11 @@ mathjax: true
 
 
 ## add-ones
-add-ones: 里面保存这一些附加的库，第三放公司为Android平台开发的附加功能系统。比如GoogleMaps等等第三方的。（一开始此包内容为空)
+add-ones: 里面保存这一些附加的库，第三放公司为Android平台开发的附加功能系统。比如GoogleMaps等等第三方的。（一开始此包内容为空)    
+![]({{"/pic/2010.jpg"}})
+
+![]({{"/pic/201002.gif"}})
+哈哈
 
 ## bulid-tools
 bulid-tools:看名字不难看出就是构建项目的时候用到的工具，当你新建Android项目的时候会用到这个包。我尝试过如果没有此包你新建的项目会报错。
