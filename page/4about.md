@@ -12,12 +12,11 @@ type: page
 ## 关于我   
 
 
-Android开发工程师一枚，热爱分享，希望为开源世界贡献自己的一份力量   
+Android开发工程师一枚，热爱分享，喜欢钻研技术，希望为开源世界贡献自己的一份力量！ 
 
-更新文章一般都会第一时间发布到我的公众号上面，所以想第一时间获取更新和更多 Android 学习资料请关注公众号。有什么问题和建议可以直接通过微信公众号给我发送信息，还可以通过下面的方式和我沟通交流。
+更新文章一般都会第一时间发布到我的公众号上面，所以想第一时间获取更新和更多 Android 学习资料请关注公众号。有什么问题和建议可以直接通过微信公众号给我发送信息，还可以通过下面的方式和我沟通交流，我会在第一时间回复。
 如果你有好的文章（各个方面的都可以）欢迎通过微信公众号和我联系给我投稿
 
-* 个人公众号：Android开发者家园
 
 ## 联系我   
 
@@ -33,7 +32,7 @@ github地址：[https://github.com/sydmobile](https://github.com/sydmobile)
 
 微信公众号：Android开发者家园 
 
-![扫一扫关注公众号，获取更多干货](http://upload-images.jianshu.io/upload_images/6737388-e9bb96f87d9e944b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![扫一扫关注微信公众号，获取更多干货和资源](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png) 
 
 QQ Android学习交流群：514716253    
 
