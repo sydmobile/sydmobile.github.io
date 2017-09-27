@@ -46,6 +46,9 @@ However, you do need to consider whether your app is compatible with each potent
 
 但是，您需要考虑您的应用程序是否与每个潜在的设备配置兼容。 由于Android运行在各种设备配置上，因此某些功能在所有设备上都不可用。 例如，某些设备可能不包括罗盘传感器。 如果您的应用程序的核心功能需要使用罗盘传感器，那么您的应用程序只能与包含罗盘传感器的设备兼容。  
 
-
-![扫一扫关注微信公众号，获取更多干货和资源](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)  
-扫一扫关注微信公众号，获取更多干货和资源。
+<br />
+<br />
+<p align="center">
+<img alt="AndroidInterviewQuestions" src="https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png"><br />
+  扫一扫关注微信公众号，获取更多干货和资源。
+</p>
