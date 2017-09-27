@@ -17,7 +17,6 @@ author: sydMobile
 
 
 > 文章最早发布于我的微信公众号中，欢迎大家扫描下面二维码关注微信公众获取更多干货资源。
-
 本文为sydMobile原创文章，可以随意转载，但请务必注明出处！
 
 ### Controlling Your App's Availability to Devices
