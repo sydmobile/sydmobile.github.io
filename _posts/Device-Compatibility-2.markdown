@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android设备兼容性 2"
-date:   2017-08-29 15:14:54
+date:   2017-09-27 15:14:54
 categories: Android官方翻译
 tags: Android官方翻译
 excerpt: Android官方翻译
