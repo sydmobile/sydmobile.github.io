@@ -1,3 +1,24 @@
+---
+layout: post
+title:  "涵盖最全的编程资料大放送"
+date:   2017-10-15 15:14:54
+categories: jekyll
+tags: jekyll
+excerpt: 整理了我学习中积累的学习资料
+mathjax: true
+author: sydMobile
+---
+* content
+{:toc}
+
+
+
+
+
+
+
+
+
 > 文章最早发布于我的微信公众号  Android_De_Home 中，欢迎大家扫描下面二维码关注微信公众获取更多干货资源。   
 >
 >本文为sydMobile原创文章，可以随意转载，但请务必注明出处！
