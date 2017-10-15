@@ -2,14 +2,21 @@
 layout: post
 title:  "涵盖最全的编程资料大放送"
 date:   2017-10-15 15:14:54
-categories: jekyll
-tags: jekyll
+categories: 干货分享
+tags: 干货
 excerpt: 整理了我学习中积累的学习资料
 mathjax: true
 author: sydMobile
 ---
 * content
 {:toc}
+
+
+
+
+
+
+
 
 
 
