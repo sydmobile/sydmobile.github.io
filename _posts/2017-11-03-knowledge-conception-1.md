@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "几个程序员必须知道的小概念"
-date:   2017-08-29 15:14:54
-categories: jekyll
-tags: jekyll
-excerpt: 预览内容
+date:   2017-11-03 15:14:54
+categories: 程序员要懂的小知识
+tags: 概念
+excerpt: Apache软件基金会、开源项目、开发语言
 mathjax: true
 author: sydMobile
 ---
