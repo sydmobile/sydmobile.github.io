@@ -19,7 +19,9 @@ author: sydMobile
 
 
 >文章最早发布于我的微信公众号  Android_De_Home 中，欢迎大家扫描下面二维码关注微信公众获取更多干货资源。
-本文为sydMobile原创文章，可以随意转载，但请务必注明出处！   
+本文为sydMobile原创文章，可以随意转载，但请务必注明出处！    
+
+
 ### Apache软件基金会（Apache Software Foundation，简称ASF）  
 是专门为支持开源软件项目而创办的一个非盈利性组织。在它所支持的Apache项目与子项目中，所发行的软件产品都遵循Apache许可证。     
 
