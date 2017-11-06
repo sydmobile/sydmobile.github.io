@@ -119,6 +119,8 @@ Gradle 是一个基于Apache Ant和Apache Maven概念的项目自动化构建工
 3. 条件判断写法直觉--使用Groovy语言
 
 Android Studio中gradle配置文件的介绍：   
+
+
 ``` Groovy
 //声明是Android程序
 apply plugin: 'com.android.application'
@@ -212,6 +214,9 @@ allprojects {
 
 ```
 
+参考：   
+维基百科    
+http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/
 
 关于远程依赖库的知识后面的文章会讲到，你也可以关注我的微信号，更快的获取更新！
 
