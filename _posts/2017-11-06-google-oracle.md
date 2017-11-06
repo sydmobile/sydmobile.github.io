@@ -2,7 +2,7 @@
 layout: post
 title:  "Google和Oracle的官司"
 date:   2017-11-06 11:05:54
-categories: 程序员要懂的小知识
+categories: 程序员要了解的小知识
 tags: Google、Oracle
 excerpt: 
 mathjax: true
