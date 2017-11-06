@@ -121,7 +121,7 @@ Gradle 是一个基于Apache Ant和Apache Maven概念的项目自动化构建工
 Android Studio中gradle配置文件的介绍：   
 
 
-``` Groovy
+```
 apply plugin: 'com.android.application' //声明是Android程序
 //关于Android项目的一些配置
 android {
@@ -213,7 +213,7 @@ allprojects {
 
 ```
 
-参考：   
+> 参考：   
 维基百科    
 http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/
 
