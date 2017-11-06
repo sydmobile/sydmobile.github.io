@@ -122,8 +122,7 @@ Android Studio中gradle配置文件的介绍：
 
 
 ``` Groovy
-//声明是Android程序
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.application' //声明是Android程序
 //关于Android项目的一些配置
 android {
     compileSdkVersion 24 // 编译版本号（android.jar）
