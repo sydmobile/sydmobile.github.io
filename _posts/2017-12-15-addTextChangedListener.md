@@ -21,7 +21,9 @@ author: sydMobile
 
 
 >文章最早发布于我的微信公众号  Android_De_Home 中，欢迎大家扫描下面二维码关注微信公众获取更多知识内容。          
-本文为sydMobile原创文章，可以随意转载，但请务必注明出处！
+本文为sydMobile原创文章，可以随意转载，但请务必注明出处！  
+
+
 ### addTextChangedListener(TextWatcher watcher)   
 ![api说明](http://img.blog.csdn.net/20171214175749940?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc3lkTW9iaWxl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)     
 
