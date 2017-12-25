@@ -22,6 +22,8 @@ Android开发工程师一枚（但不限于此，我还有更大的梦想，俗�
 
 CSDN博客地址：[http://blog.csdn.net/sydmobile](http://blog.csdn.net/sydmobile)
 
+邮箱：sunyidong516@163.com
+
 简书地址：[http://www.jianshu.com/u/d7e13524b6f6](http://www.jianshu.com/u/d7e13524b6f6)
 
 github地址：[https://github.com/sydmobile](https://github.com/sydmobile)
