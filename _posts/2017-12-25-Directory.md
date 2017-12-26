@@ -34,7 +34,9 @@ author: sydMobile
 
 [编译Android源码](http://blog.csdn.net/sydMobile/article/details/78469585)      
 
-[关于Android源码的理解以及如何阅读源码](http://blog.csdn.net/sydMobile/article/details/78468941)    
+[关于Android源码的理解以及如何阅读源码](http://blog.csdn.net/sydMobile/article/details/78468941)     
+
+[Android中主要类的继承关系梳理汇总](https://sydmobile.github.io/2017/12/26/Android-Class/)
 
 持续更新.......  
 
