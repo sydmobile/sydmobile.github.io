@@ -34,11 +34,8 @@ github地址：[https://github.com/sydmobile](https://github.com/sydmobile)
 
 知乎：[https://www.zhihu.com/people/sydmobile](https://www.zhihu.com/people/sydmobile)
 
-![扫一扫关注微信公众号，获取更多干货和资源](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png) 
-
-QQ Android学习交流群：514716253    
-
-![](http://upload-images.jianshu.io/upload_images/6737388-1a7c281d4e75fc4c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![扫一扫关注微信公众号，获取更多干货和资源](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png)    
+扫一扫关注微信公众号，获取更多干货和资源
 
 ## 特别感谢  
 特别感谢HyG，博客样式风格来自[HyG](https://github.com/Gaohaoyang/gaohaoyang.github.io).
