@@ -20,19 +20,19 @@ Android开发工程师一枚（但不限于此，我还有更大的梦想，俗�
 
 ## 联系我   
 
-CSDN博客地址：[http://blog.csdn.net/sydmobile](http://blog.csdn.net/sydmobile)
+新浪微博：[sydMobile](http://weibo.com/u/3203404245?refer_flag=1001030101_&is_all=1)  
 
-邮箱：sunyidong516@163.com
+邮箱：sunyidong516@163.com  
+
+微信公众号：Android开发者家园 
+
+CSDN博客地址：[http://blog.csdn.net/sydmobile](http://blog.csdn.net/sydmobile)
 
 简书地址：[http://www.jianshu.com/u/d7e13524b6f6](http://www.jianshu.com/u/d7e13524b6f6)
 
 github地址：[https://github.com/sydmobile](https://github.com/sydmobile)
 
-新浪微博：[sydMobile](http://weibo.com/u/3203404245?refer_flag=1001030101_&is_all=1)
-
 知乎：[https://www.zhihu.com/people/sydmobile](https://www.zhihu.com/people/sydmobile)
-
-微信公众号：Android开发者家园 
 
 ![扫一扫关注微信公众号，获取更多干货和资源](https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png) 
 
