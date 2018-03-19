@@ -51,7 +51,7 @@ ListView会显示不全
 #### 解决原理 
 
 说起原理就可MeasureSpec类分不开了，先来介绍一下这个类。    
-![MeasureSpec类](http://img-blog.csdn.net/20180313153947523?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)    
+![MeasureSpec类](http://img.blog.csdn.net/20180313153947523?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 MeasureSpec类是View的一个内部静态类，MeasureSpec类封装了从父布局到子布局传递的布局需求。每个MeasureSpec对象代表了宽度和高度的要求。一个MeasureSpec类的表示由控件大小和模式两组成。有三种模式：  
 
@@ -66,7 +66,7 @@ MeasureSpec类为了减少对象的分配用了一个整数来实现这个功能
 
 那么这个整数是怎么来实现这个功能的呢？  
 
-![int表示形式](http://img-blog.csdn.net/20180313164012230?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+![int表示形式](http://img.blog.csdn.net/20180313164012230?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
 
 我们都知道int类型的是32位，那么表示形式就是，向上面图中的那样，前两位代表了模式（就是前面提到的那三种），后30位代表了组件的大小。这样就用整数形式来表示模式和大小了。   
 
@@ -85,7 +85,7 @@ AT_MOST = 2 << MODE_SHIFT ；也就是 10 向左位移30位，结果就是int类
 
 在这个MeasureSpec类中最重要的一个方法恐怕就是makeMeasureSpec这个方法了。     
 
-![makeMeasureSpec](http://img-blog.csdn.net/20180313175232661?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![makeMeasureSpec](http://img.blog.csdn.net/20180313175232661?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N5ZE1vYmlsZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 这个方法就是用给定的大小和模式创建一个int类型的数来满足父布局到子布局传递的布局需求。第一个参数 size就是父布局给子布局传递的大小，第二个参数是模式（就是在上面的三个模式中选择一个）。好了，到这里makeMeasureSpec（）这个方法也讲了。
 
