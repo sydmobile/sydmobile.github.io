@@ -38,7 +38,9 @@ author: sydMobile
 
 [Android中主要类的继承关系梳理汇总](https://sydmobile.github.io/2017/12/26/Android-Class/)   
 
-[Android应用在应用宝上线](https://sydmobile.github.io/2018/01/24/APP-ONLINE/)   
+[Android应用在应用宝上线](https://sydmobile.github.io/2018/01/24/APP-ONLINE/)      
+
+[Android 6.0 权限行为变更详解](https://blog.csdn.net/sydMobile/article/details/82182615)
 
 [更多目录内容点击这里](https://blog.csdn.net/sydMobile/article/details/78890731)
 
