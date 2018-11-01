@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dialog 宽度占据全屏"
-date:   2017-08-29 15:14:54
+date:   2018-11-01 15:14:54
 categories: Android
 tags: Dialog全屏
 excerpt: 关于如何自定义设置 Dialog 的大小，以及如何让宽度占满整个屏幕，其实是一个老生常谈的内容了，特别是对于很多新手来说。关于这方面的内容网上一搜一大把
