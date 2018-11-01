@@ -40,7 +40,9 @@ author: sydMobile
 
 [Android应用在应用宝上线](https://sydmobile.github.io/2018/01/24/APP-ONLINE/)      
 
-[Android 6.0 权限行为变更详解](https://blog.csdn.net/sydMobile/article/details/82182615)
+[Android 6.0 权限行为变更详解](https://blog.csdn.net/sydMobile/article/details/82182615)         
+
+[Android Dialog 宽度占满全屏](https://www.jianshu.com/p/9797d6448ad3)
 
 [更多目录内容点击这里](https://blog.csdn.net/sydMobile/article/details/78890731)
 
