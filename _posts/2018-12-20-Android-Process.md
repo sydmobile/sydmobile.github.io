@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android 中进程的级别以及 Service 的优先级"
-date:   2017-08-29 15:14:54
+date:   2018-12-20 15:14:54
 categories: Android
 tags: android
 excerpt: 
