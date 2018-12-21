@@ -50,7 +50,11 @@ author: sydMobile
 
 [Android 反编译](https://sydmobile.github.io/2018/12/12/decompilation/)   
 
-[Android Button](https://sydmobile.github.io/2018/12/19/Android-Button/)
+[Android Button](https://sydmobile.github.io/2018/12/19/Android-Button/)    
+
+[Java 类型转换](https://sydmobile.github.io/2018/12/21/Java-byte/)      
+
+[Android 中进程的级别以及 Service 的优先级](https://sydmobile.github.io/2018/12/20/Android-Process/)
 
 
 
