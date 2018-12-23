@@ -54,7 +54,11 @@ author: sydMobile
 
 [Java 类型转换](https://sydmobile.github.io/2018/12/21/Java-byte/)      
 
-[Android 中进程的级别以及 Service 的优先级](https://sydmobile.github.io/2018/12/20/Android-Process/)
+[Android 中进程的级别以及 Service 的优先级](https://sydmobile.github.io/2018/12/20/Android-Process/)   
+
+[Java 类型转换](https://sydmobile.github.io/2018/12/21/Java-byte/)       
+
+[Android 入门--Activity](https://sydmobile.github.io/2018/12/23/Android-Activity/)
 
 
 
