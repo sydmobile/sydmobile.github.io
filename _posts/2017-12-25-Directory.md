@@ -43,7 +43,7 @@ author: sydMobile
 [Android 6.0 权限行为变更详解](https://blog.csdn.net/sydMobile/article/details/82182615)         
 
 [Activity 从启动到布局绘制的简单分析](https://sydmobile.github.io/2018/12/10/Activity-Launcher/)      
-  
+
 [Android Dialog 宽度占满全屏](https://www.jianshu.com/p/9797d6448ad3)         
 
 [Android 网络请求原理以及原始数据包](https://blog.csdn.net/sydMobile/article/details/83624484)     
@@ -66,9 +66,9 @@ author: sydMobile
 
 持续更新.......  
 
+<br />
+<br />
 
-<br />
-<br />
 <p align="center">
 <img alt="AndroidInterviewQuestions" src="https://raw.githubusercontent.com/sydmobile/sydmobile.github.io/master/pic/myqr.png"><br />
   关注公众号，及时获取推送
