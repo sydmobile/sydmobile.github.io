@@ -60,6 +60,8 @@ author: sydMobile
 
 [Android 入门--Activity](https://sydmobile.github.io/2018/12/23/Android-Activity/)
 
+[蓝牙开发（1）](https://sydmobile.github.io/2019/07/03/Android-Bluetooth1/)
+
 
 
 [更多目录内容点击这里](https://blog.csdn.net/sydMobile/article/details/78890731)
