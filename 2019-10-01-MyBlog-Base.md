@@ -24,3 +24,5 @@ author: sydMobile
 
 开始啦
 
+![f](https://github.com/sydmobile/sydmobile.github.io/blob/master/pic/%E5%A4%B4%E5%9B%BE%E7%89%87%E4%B8%A2%E5%A4%B1.png?raw=true)
+
