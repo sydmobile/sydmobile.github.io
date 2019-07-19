@@ -2,7 +2,7 @@
 layout: post
 title:  "Android 蓝牙开发（1）"
 date:   2019-07-03 15:14:54
-categories: Android
+categories: 蓝牙开发
 tags: 蓝牙
 excerpt: 
 mathjax: true
