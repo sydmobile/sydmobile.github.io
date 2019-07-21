@@ -3,7 +3,7 @@ layout: post
 title:  "从0系统学Android-1.3创建你的第一个 Android 项目"
 date:   2019-07-21 15:14:54
 categories: 从0系统学Android
-tags: Android 关键字
+tags: Android
 excerpt: 预览内容
 mathjax: true
 author: sydMobile
