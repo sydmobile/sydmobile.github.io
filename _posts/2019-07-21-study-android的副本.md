@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "从0系统学Android-1.4日志工具的使用"
-date:   2019-07-21 15:14:54
+date:   2019-07-21 15:14:44
 categories:从0开始系统学Android
-tags: Android 关键字
-excerpt: 预览内容
+tags: Android
+excerpt: 
 mathjax: true
 author: sydMobile
 ---
