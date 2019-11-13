@@ -15,10 +15,10 @@
             <a href="https://www.linkedin.com/in/{{site.linkedIn_username}}" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a> {% endif %} {% if site.dribbble_username %}
             <a href=" https://dribbble.com/{{site.dribbble_username}}" title="Dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a> {% endif %}
         </p>
-   <!--      <p>
-            本站总访问量439325<span id="busuanzi_value_site_pv"></span>次，本站访客数36725<span id="busuanzi_value_site_uv"></span>人次，本文总阅读量25376<span id="busuanzi_value_page_pv"></span>次
+        <p>
+            本站总访问量9325<span id="busuanzi_value_site_pv"></span>次，本站访客数325<span id="busuanzi_value_site_uv"></span>人次，本文总阅读量376<span id="busuanzi_value_page_pv"></span>次
         </p>
-              -->
+     
     </div>
 </footer>
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
