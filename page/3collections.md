@@ -42,6 +42,8 @@ type: page
 [Android中最详细的焦点问题，从概念出发带你一点点分享（1）](http://blog.csdn.net/sydMobile/article/details/79530561)
 
 
+
+
 ### 干货分享  
 [所有Android开发者不可错过的资料](http://blog.csdn.net/sydmobile/article/details/79417429)
 
